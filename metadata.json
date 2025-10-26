@@ -1,0 +1,5 @@
+{
+  "name": "3D Low Poly Procedural World",
+  "description": "An interactive 3D procedural world explorer built with Three.js, allowing users to fly through a dynamically generated low-poly landscape.",
+  "requestFramePermissions": []
+}
